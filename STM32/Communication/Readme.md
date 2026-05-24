@@ -1,0 +1,1 @@
+UART<LIN>,CAN,SPI,I2C Protocols

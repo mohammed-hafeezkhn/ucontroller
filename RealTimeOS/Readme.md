@@ -17,8 +17,7 @@ responsibilities are difficult to manage in a single super-loop. In production E
 stack/latency, and verify behavior with traces under worst-case bus and CPU load. A good interview answer should include one concrete example, one
 common bug, and one verification method.
 
-4. How do you create a task in FreeRTOS?
-- Answer: An RTOS provides deterministic scheduling, tasks, synchronization, timers, and IPC. It is used when timing, concurrency, and separation of
-responsibilities are difficult to manage in a single super-loop. In production ECU software I keep ISR paths short, push work to tasks, budget
-stack/latency, and verify behavior with traces under worst-case bus and CPU load. A good interview answer should include one concrete example, one
-common bug, and one verification method.
+- >> [FreeRTOS](./FreeRTOS/FreeRTOS.md)
+- >> [ZephyrRTOS](./Zephyr)
+- >> [qnx](./other/NeutrinoRTOS.md)
+- >> [vxw](./other/VxWorks.md)

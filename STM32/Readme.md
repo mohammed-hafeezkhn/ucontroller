@@ -32,5 +32,5 @@ Analog circuit          (Amplifiers,filters)
 ### ➡️ **[Bootloader](./Bootloader/Readme.md)**
 ### ➡️ **[Embedded Driver development](./Driver_development/Readme.md)**
 ### ➡️ **[Protocols](./Communication/Readme.md)**
-### ➡️ **[RTOS](./RealTimeOS/Readme.md)**
+### ➡️ **[RTOS](../RealTimeOS/Readme.md)**
 ### ➡️ **[SystemDesign](./StateMachines/Readme.md)**

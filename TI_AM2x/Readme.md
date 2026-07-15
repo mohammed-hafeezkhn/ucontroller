@@ -1,4 +1,4 @@
-## AM2x Sitara
+# AM2x Sitara
 
 ---
 
